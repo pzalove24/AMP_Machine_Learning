@@ -1,0 +1,9 @@
+#fabricate chip
+#test algori with tensorflow
+
+#tensorflow librarys
+#Arduino
+#neurophic
+
+#Ai accelator
+
