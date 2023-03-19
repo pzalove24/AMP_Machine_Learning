@@ -7,3 +7,4 @@
 7. https://pipenv.pypa.io/en/latest/commands/
 8. https://pypi.org/project/pipenv/#basic-concepts
 9. https://pipenv.pypa.io/en/latest/advanced/#custom-script-shortcuts
+10. https://pipenv.pypa.io/en/latest/advanced/#custom-script-shortcuts

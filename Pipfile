@@ -8,6 +8,10 @@ name = "pypi"
 [dev-packages]
 tensorflow = "*"
 numpy = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+server = "python server.py"

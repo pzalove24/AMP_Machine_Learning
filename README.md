@@ -6,7 +6,7 @@ To install the virtual environment package using pipenv
 2. open folder
 3. pipenv shell
 4. pipenv lock
-5. pipenv install <package name>
+5. pipenv install #package# --dev
 
 To upgrade pipenv at anytime
 1. pip install --user --upgrade pipenv
