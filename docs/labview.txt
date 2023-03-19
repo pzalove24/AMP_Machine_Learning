@@ -1,6 +1,40 @@
+Learning
 1. https://forums.ni.com/t5/LabVIEW/Numeric-Array-to-String/td-p/3711339
 2. https://forums.ni.com/t5/LabVIEW/Sending-array-over-TCP-receiving-array-and-creating-image/td-p/1873583
 3. https://forums.ni.com/t5/LabVIEW/Multiple-data-TCP-IP-Labview/td-p/2178672
 4. https://zeromq.org/get-started/?language=python&library=pyzmq#
 5. https://labview-zmq.sourceforge.io/
 6. https://www.youtube.com/watch?v=3QiPPX-KeSc&t=2620s
+7. https://www.youtube.com/watch?v=GApmpZx-Yro
+8. http://docs.enthought.com/python-for-LabVIEW/guide/start.html
+9. https://www.ni.com/docs/en-US/bundle/labview/page/lvhowto/build_web_service.html
+10. https://www.genuen.com/blog/leveraging-the-power-of-python-in-labview
+11. https://www.ni.com/en-th/shop/labview/using-python-matlab-and-c-with-labview.html
+12. https://www.ni.com/en-th/support/documentation/supplemental/16/python-resources-for-ni-hardware-and-software.html#section--444236327
+13. https://forums.ni.com/t5/Example-Code/LabVIEW-Deep-Learning-with-Python-Keras-API/ta-p/3998133
+14. https://forums.ni.com/t5/Example-Code/Python-LabVIEW-TCP-IP-socket-communication/ta-p/3537049
+15. https://www.youtube.com/watch?v=L3zirD3axCk
+16. https://www.synovus.ca/whats-the-best-way-to-leverage-python-and-labview-interactions/
+17. https://lavag.org/topic/21958-what-is-the-state-of-the-art-of-python-labview-integration/
+18. https://lavag.org/topic/21227-request-for-collaborationopen-tensorflow-toolkit/
+19. https://msl-loadlib.readthedocs.io/en/stable/interprocess_communication.html
+20. https://stackoverflow.com/questions/61406244/communication-64-bit-matlab-and-32-bit-labview
+21. https://forums.ni.com/t5/LabVIEW/LabVIEW-2020-32bits-over-64-bits/td-p/4095901
+22.
+
+Note
+1.dSPACE hardware
+2.HIL/DIL integration
+-Hardware in the loop
+-Driver in the loop
+3.Veristand
+4. TCP/IP, ActiveX, JKI python
+
+pipenv
+1. https://pypi.org/project/jki-python-bridge-for-labview/
+2. https://pypi.org/search/?q=labview
+3. https://pypi.org/project/TDTPy/
+4. https://pypi.org/project/autolv/
+5. https://pypi.org/project/autolv/
+6. https://github.com/ni/python_labview_automation
+ึ7. https://stackoverflow.com/questions/48941116/does-python-pip-have-the-equivalent-of-nodes-package-json
