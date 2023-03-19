@@ -1,0 +1,5 @@
+SNN: spiking neural network
+1. https://www.frontiersin.org/articles/10.3389/neuro.11.005.2008/full
+2. https://snntorch.readthedocs.io/en/latest/
+
+reservoir computing

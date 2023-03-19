@@ -1,3 +1,4 @@
+pipenv
 1. https://docs.python-guide.org/writing/structure/
 2. https://stackoverflow.com/questions/48941116/does-python-pip-have-the-equivalent-of-nodes-package-json
 3. https://pipenv.pypa.io/en/latest/installation/
