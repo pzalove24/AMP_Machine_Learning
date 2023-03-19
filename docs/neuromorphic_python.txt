@@ -1,5 +1,10 @@
 SNN: spiking neural network
 1. https://www.frontiersin.org/articles/10.3389/neuro.11.005.2008/full
 2. https://snntorch.readthedocs.io/en/latest/
+3. https://datascience.stackexchange.com/questions/111886/best-python-library-for-spiking-neural-networks
+
 
 reservoir computing
+
+Brain connectivity
+1. https://brainconn.readthedocs.io/en/latest/

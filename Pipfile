@@ -12,6 +12,8 @@ matplotlib = "*"
 jki-python-bridge-for-labview = "==5.0.1"
 snntorch = "*"
 torch = "*"
+brian2 = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.8"
