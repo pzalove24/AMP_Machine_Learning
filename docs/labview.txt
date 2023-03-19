@@ -38,3 +38,7 @@ pipenv
 5. https://pypi.org/project/autolv/
 6. https://github.com/ni/python_labview_automation
 ึ7. https://stackoverflow.com/questions/48941116/does-python-pip-have-the-equivalent-of-nodes-package-json
+
+python socket
+1. twisted python framework
+2. Django and Flask framework
