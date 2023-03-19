@@ -6,3 +6,4 @@
 6. https://www.youtube.com/watch?v=hSQ8tGxoibo or มารู้จัก PipEnv Python Package and Virtual Environment Manager in youtube
 7. https://pipenv.pypa.io/en/latest/commands/
 8. https://pypi.org/project/pipenv/#basic-concepts
+9. https://pipenv.pypa.io/en/latest/advanced/#custom-script-shortcuts
