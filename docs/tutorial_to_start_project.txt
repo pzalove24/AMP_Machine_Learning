@@ -1,2 +1,6 @@
 1. https://docs.python-guide.org/writing/structure/
-2. 
+2. https://stackoverflow.com/questions/48941116/does-python-pip-have-the-equivalent-of-nodes-package-json
+3. https://pipenv.pypa.io/en/latest/installation/
+4. pipenv
+5. freeze
+6. https://www.youtube.com/watch?v=hSQ8tGxoibo or มารู้จัก PipEnv Python Package and Virtual Environment Manager in youtube
