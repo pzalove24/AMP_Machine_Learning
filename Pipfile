@@ -14,6 +14,7 @@ snntorch = "*"
 torch = "*"
 brian2 = "*"
 pytest = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
