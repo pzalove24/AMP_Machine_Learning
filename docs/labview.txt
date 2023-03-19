@@ -1,0 +1,6 @@
+1. https://forums.ni.com/t5/LabVIEW/Numeric-Array-to-String/td-p/3711339
+2. https://forums.ni.com/t5/LabVIEW/Sending-array-over-TCP-receiving-array-and-creating-image/td-p/1873583
+3. https://forums.ni.com/t5/LabVIEW/Multiple-data-TCP-IP-Labview/td-p/2178672
+4. https://zeromq.org/get-started/?language=python&library=pyzmq#
+5. https://labview-zmq.sourceforge.io/
+6. https://www.youtube.com/watch?v=3QiPPX-KeSc&t=2620s
