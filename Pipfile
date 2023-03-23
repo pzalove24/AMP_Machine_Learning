@@ -15,6 +15,7 @@ torch = "*"
 brian2 = "*"
 pytest = "*"
 ipykernel = "*"
+keras = "*"
 
 [requires]
 python_version = "3.8"
