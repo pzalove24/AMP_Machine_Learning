@@ -9,10 +9,11 @@ https://www.python.org/downloads/release/python-3810/
 3. pipenv shell
 4. pipenv lock # if do not see Pipfile.lock #
 5. pipenv install #package# --dev
-6. pipenv update
 
 To upgrade pipenv at anytime
 1. pip install --user --upgrade pipenv
+
+piplock and pipfile should not be changed unless you install new package not from install dev-dependency
 
 The main commands are install, uninstall, and lock, which generates a Pipfile.lock. These are intended to replace $ pip install usage, as well as manual virtualenv management 
 
