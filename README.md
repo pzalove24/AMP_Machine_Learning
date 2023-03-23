@@ -9,6 +9,7 @@ https://www.python.org/downloads/release/python-3810/
 3. pipenv shell
 4. pipenv lock # if do not see Pipfile.lock #
 5. pipenv install #package# --dev
+6. pipenv update
 
 To upgrade pipenv at anytime
 1. pip install --user --upgrade pipenv
