@@ -7,8 +7,8 @@ https://www.python.org/downloads/release/python-3810/
 1. pip install pipenv #dont forget to look in PATH on system#
 2. open folder for working
 3. pipenv shell
-4. pipenv lock # if do not see Pipfile.lock #
-5. pipenv install #package# --dev
+<!-- pipenv lock # if do not see Pipfile.lock # -->
+4. pipenv install #package# --dev
 
 To upgrade pipenv at anytime
 1. pip install --user --upgrade pipenv
