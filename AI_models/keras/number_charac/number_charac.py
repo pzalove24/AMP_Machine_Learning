@@ -1,6 +1,1 @@
-print(1+2)
-print('hi')
-print('from pc 1')
-print('again')
-print('test from mac')
-print('test from pc')
+print('cannot run pipenv install')
