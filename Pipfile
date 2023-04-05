@@ -15,6 +15,7 @@ brian2 = "*"
 pytest = "*"
 ipykernel = "*"
 keras = "*"
+tensorflow-macos = "*"
 
 [requires]
 python_version = "3.8"
