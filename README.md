@@ -10,6 +10,11 @@ https://www.python.org/downloads/release/python-3810/
 <!-- pipenv lock # if do not see Pipfile.lock # -->
 4. pipenv install #package# --dev
 
+On Mac
+5. Delete Pipfile.lock
+6. pipenv install --dev
+7. Do not push to master repository on github
+
 To upgrade pipenv at anytime
 1. pip install --user --upgrade pipenv
 
