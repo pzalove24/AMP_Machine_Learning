@@ -16,6 +16,7 @@ pytest = "*"
 ipykernel = "*"
 keras = "*"
 tensorflow-macos = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.8"
